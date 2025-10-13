@@ -5,7 +5,7 @@ Week 1 (Genkit introductory codelabs):
 
 > **Info:** This codelab has two sections
 
-1.  Getting Started with Genkit TypeScript
-2.  Getting Started with Genkit and Go
+> 1.  Getting Started with Genkit TypeScript
+> 2.  Getting Started with Genkit and Go
 
 ---
