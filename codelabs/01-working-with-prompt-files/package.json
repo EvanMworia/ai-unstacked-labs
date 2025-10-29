@@ -1,0 +1,25 @@
+{
+	"name": "01-working-with-prompt-files",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "tsx src/working-with-prompts.ts",
+		"studio": "genkit start"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "module",
+	"devDependencies": {
+		"@types/handlebars": "^4.0.40",
+		"handlebars": "^4.7.8",
+		"typescript": "^5.9.3"
+	},
+	"dependencies": {
+		"@genkit-ai/google-genai": "^1.21.0",
+		"dotenv": "^17.2.3",
+		"genkit": "^1.21.0"
+	}
+}

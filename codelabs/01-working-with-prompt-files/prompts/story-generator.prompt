@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-2.5-flash
+input:
+    schema:
+        character: string
+        team: string
+        setting: string
+---
+Write an action packed story, set in {{setting}}, {{character}} and his {{team}} have to push through the waves of rebel talibans in order to get to their leader and capture him alive as instructed
